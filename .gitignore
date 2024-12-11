@@ -1,4 +1,5 @@
-.myvenv
-.dvc
+# Ignore virtual environment
+.myvenv/
+.dvc/
 .env
 .dvcignore
